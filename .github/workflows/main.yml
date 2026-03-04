@@ -24,4 +24,4 @@ jobs:
         sleep 5
 
     - name: Test API with curl
-      run: curl http://localhost:3000
+      run: curl http://localhost:3001
